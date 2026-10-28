@@ -1,15 +1,15 @@
 {
   "meta": {
     "cycle": "results",
-    "generated_at": "2026-10-14T01:08:46+00:00",
+    "generated_at": "2026-10-28T01:07:00+00:00",
     "league_key": "best_ball",
     "league_name": "Best Ball",
     "mode": "regular",
     "platform": "sleeper",
     "platform_league_id": "1316086102657884160",
     "season": 2026,
-    "source_week": 5,
-    "week": 5
+    "source_week": 7,
+    "week": 7
   },
   "teams": [
     {
@@ -37,34 +37,36 @@
         "9480",
         "9488"
       ],
-      "points_against": 541.78,
-      "points_for": 766.4,
+      "points_against": 779.98,
+      "points_for": 987.02,
       "prior_week_points": {
         "1": 170.8,
         "2": 153.58,
         "3": 168.1,
-        "4": 111.38
+        "4": 111.38,
+        "5": 162.54,
+        "6": 109.94
       },
       "record": {
-        "losses": 2,
+        "losses": 4,
         "ties": 0,
-        "wins": 8
+        "wins": 10
       },
       "roster_id": "1",
       "starters": [
-        "7523",
-        "3198",
+        "1373",
         "7611",
-        "8167",
-        "8137",
+        "6806",
         "9488",
-        "9480",
-        "8146"
+        "8137",
+        "8167",
+        "7002",
+        "7594"
       ],
       "team": "Killa EV ",
       "team_id": "1",
       "waiver_budget_used": 0,
-      "week_points": 162.54
+      "week_points": 110.68
     },
     {
       "eliminated_week": null,
@@ -91,34 +93,36 @@
         "9228",
         "9756"
       ],
-      "points_against": 589.1,
-      "points_for": 454.18,
+      "points_against": 794.52,
+      "points_for": 598.0,
       "prior_week_points": {
         "1": 105.54,
         "2": 95.98,
         "3": 115.74,
-        "4": 65.66
+        "4": 65.66,
+        "5": 71.26,
+        "6": 69.0
       },
       "record": {
-        "losses": 7,
+        "losses": 11,
         "ties": 0,
         "wins": 3
       },
       "roster_id": "2",
       "starters": [
-        "11566",
-        "13287",
-        "5892",
-        "7564",
-        "11625",
+        "9228",
+        "7021",
+        "13286",
         "13276",
+        "7564",
+        "7049",
         "11604",
-        "13286"
+        "1466"
       ],
       "team": "tbach24",
       "team_id": "2",
       "waiver_budget_used": 0,
-      "week_points": 71.26
+      "week_points": 74.82
     },
     {
       "eliminated_week": null,
@@ -145,34 +149,36 @@
         "9509",
         "9754"
       ],
-      "points_against": 605.18,
-      "points_for": 563.84,
+      "points_against": 804.76,
+      "points_for": 753.38,
       "prior_week_points": {
         "1": 95.08,
         "2": 95.92,
         "3": 109.3,
-        "4": 146.46
+        "4": 146.46,
+        "5": 117.08,
+        "6": 74.26
       },
       "record": {
-        "losses": 6,
+        "losses": 9,
         "ties": 0,
-        "wins": 4
+        "wins": 5
       },
       "roster_id": "3",
       "starters": [
-        "3257",
+        "11563",
+        "5850",
         "8150",
-        "9509",
         "8148",
         "11620",
         "6783",
         "7600",
-        "10859"
+        "9509"
       ],
       "team": "kmillzbos617",
       "team_id": "3",
       "waiver_budget_used": 0,
-      "week_points": 117.08
+      "week_points": 115.18
     },
     {
       "eliminated_week": null,
@@ -199,34 +205,36 @@
         "9221",
         "9753"
       ],
-      "points_against": 626.86,
-      "points_for": 578.54,
+      "points_against": 828.84,
+      "points_for": 773.46,
       "prior_week_points": {
         "1": 149.06,
         "2": 85.02,
         "3": 136.9,
-        "4": 93.4
+        "4": 93.4,
+        "5": 114.16,
+        "6": 71.7
       },
       "record": {
-        "losses": 5,
+        "losses": 7,
         "ties": 0,
-        "wins": 5
+        "wins": 7
       },
       "roster_id": "4",
       "starters": [
-        "6768",
-        "9221",
+        "11560",
         "11584",
+        "9221",
+        "13294",
         "8112",
-        "5927",
-        "7569",
+        "10232",
         "8172",
-        "5022"
+        "4217"
       ],
       "team": "alesclub",
       "team_id": "4",
       "waiver_budget_used": 0,
-      "week_points": 114.16
+      "week_points": 123.22
     },
     {
       "eliminated_week": null,
@@ -253,16 +261,18 @@
         "8698",
         "9511"
       ],
-      "points_against": 528.04,
-      "points_for": 550.6,
+      "points_against": 791.74,
+      "points_for": 742.58,
       "prior_week_points": {
         "1": 118.42,
         "2": 108.58,
         "3": 113.76,
-        "4": 111.82
+        "4": 111.82,
+        "5": 98.02,
+        "6": 86.18
       },
       "record": {
-        "losses": 4,
+        "losses": 8,
         "ties": 0,
         "wins": 6
       },
@@ -270,17 +280,17 @@
       "starters": [
         "421",
         "5967",
-        "12507",
-        "12514",
+        "4866",
+        "13285",
+        "8144",
         "5045",
-        "8126",
-        "12518",
-        "3214"
+        "3214",
+        "8126"
       ],
       "team": "Bunch-a-Punts",
       "team_id": "5",
       "waiver_budget_used": 0,
-      "week_points": 98.02
+      "week_points": 105.8
     },
     {
       "eliminated_week": null,
@@ -307,34 +317,36 @@
         "8210",
         "9508"
       ],
-      "points_against": 594.76,
-      "points_for": 606.32,
+      "points_against": 796.22,
+      "points_for": 880.62,
       "prior_week_points": {
         "1": 112.36,
         "2": 157.28,
         "3": 110.56,
-        "4": 140.58
+        "4": 140.58,
+        "5": 85.54,
+        "6": 156.02
       },
       "record": {
         "losses": 6,
         "ties": 0,
-        "wins": 4
+        "wins": 8
       },
       "roster_id": "6",
       "starters": [
-        "3163",
-        "12490",
+        "3294",
         "12512",
-        "13274",
-        "10213",
+        "7567",
         "6786",
+        "10213",
+        "13274",
         "7553",
-        "8210"
+        "8151"
       ],
       "team": "D-BLOCK",
       "team_id": "6",
       "waiver_budget_used": 0,
-      "week_points": 85.54
+      "week_points": 118.28
     },
     {
       "eliminated_week": null,
@@ -361,34 +373,36 @@
         "96",
         "9758"
       ],
-      "points_against": 678.74,
-      "points_for": 520.62,
+      "points_against": 870.96,
+      "points_for": 728.32,
       "prior_week_points": {
         "1": 115.86,
         "2": 118.22,
         "3": 83.48,
-        "4": 106.66
+        "4": 106.66,
+        "5": 96.4,
+        "6": 109.48
       },
       "record": {
-        "losses": 8,
+        "losses": 10,
         "ties": 0,
-        "wins": 2
+        "wins": 4
       },
       "roster_id": "7",
       "starters": [
-        "96",
+        "9758",
+        "6813",
         "11576",
-        "4199",
-        "8134",
+        "11628",
+        "5859",
         "4037",
-        "9504",
-        "9484",
-        "6813"
+        "12517",
+        "9484"
       ],
       "team": "paulyo5336",
       "team_id": "7",
       "waiver_budget_used": 0,
-      "week_points": 96.4
+      "week_points": 98.22
     },
     {
       "eliminated_week": null,
@@ -415,34 +429,36 @@
         "8205",
         "8228"
       ],
-      "points_against": 518.46,
-      "points_for": 603.26,
+      "points_against": 703.4,
+      "points_for": 798.06,
       "prior_week_points": {
         "1": 125.76,
         "2": 126.52,
         "3": 120.86,
-        "4": 115.42
+        "4": 115.42,
+        "5": 114.7,
+        "6": 81.3
       },
       "record": {
-        "losses": 0,
+        "losses": 1,
         "ties": 0,
-        "wins": 10
+        "wins": 13
       },
       "roster_id": "8",
       "starters": [
-        "4984",
+        "13269",
+        "12481",
         "8228",
-        "12474",
-        "11783",
-        "7547",
         "12519",
-        "5012",
-        "5995"
+        "7547",
+        "13298",
+        "12506",
+        "11783"
       ],
       "team": "jdamiani07",
       "team_id": "8",
       "waiver_budget_used": 0,
-      "week_points": 114.7
+      "week_points": 113.5
     },
     {
       "eliminated_week": null,
@@ -469,34 +485,36 @@
         "8138",
         "9502"
       ],
-      "points_against": 533.98,
-      "points_for": 572.52,
+      "points_against": 718.74,
+      "points_for": 793.16,
       "prior_week_points": {
         "1": 113.26,
         "2": 94.0,
         "3": 95.04,
-        "4": 159.16
+        "4": 159.16,
+        "5": 111.06,
+        "6": 124.7
       },
       "record": {
-        "losses": 6,
+        "losses": 7,
         "ties": 0,
-        "wins": 4
+        "wins": 7
       },
       "roster_id": "9",
       "starters": [
         "11564",
-        "8138",
-        "12533",
+        "12527",
+        "4035",
         "12501",
         "5846",
-        "12530",
-        "8110",
-        "12527"
+        "12526",
+        "5844",
+        "12469"
       ],
       "team": "Blackup",
       "team_id": "9",
       "waiver_budget_used": 0,
-      "week_points": 111.06
+      "week_points": 95.94
     },
     {
       "eliminated_week": null,
@@ -523,34 +541,36 @@
         "9506",
         "9997"
       ],
-      "points_against": 521.66,
-      "points_for": 595.86,
+      "points_against": 695.12,
+      "points_for": 825.24,
       "prior_week_points": {
         "1": 123.6,
         "2": 117.38,
         "3": 111.78,
-        "4": 102.32
+        "4": 102.32,
+        "5": 140.78,
+        "6": 103.76
       },
       "record": {
         "losses": 4,
         "ties": 0,
-        "wins": 6
+        "wins": 10
       },
       "roster_id": "10",
       "starters": [
         "8161",
-        "11581",
         "4034",
-        "9487",
+        "9506",
+        "9997",
+        "13296",
         "11632",
-        "2216",
         "11603",
-        "9997"
+        "11581"
       ],
       "team": "BITE",
       "team_id": "10",
       "waiver_budget_used": 0,
-      "week_points": 140.78
+      "week_points": 125.62
     },
     {
       "eliminated_week": null,
@@ -577,34 +597,36 @@
         "8136",
         "9224"
       ],
-      "points_against": 621.34,
-      "points_for": 581.04,
+      "points_against": 837.02,
+      "points_for": 794.54,
       "prior_week_points": {
         "1": 165.3,
         "2": 88.5,
         "3": 104.98,
-        "4": 103.48
+        "4": 103.48,
+        "5": 118.78,
+        "6": 111.74
       },
       "record": {
-        "losses": 6,
+        "losses": 8,
         "ties": 0,
-        "wins": 4
+        "wins": 6
       },
       "roster_id": "11",
       "starters": [
         "6804",
         "6790",
         "11586",
-        "6794",
-        "13346",
         "6801",
+        "13279",
+        "6794",
         "8131",
-        "9224"
+        "13414"
       ],
       "team": "Bolle425",
       "team_id": "11",
       "waiver_budget_used": 0,
-      "week_points": 118.78
+      "week_points": 101.76
     },
     {
       "eliminated_week": null,
@@ -631,34 +653,36 @@
         "9486",
         "9493"
       ],
-      "points_against": 557.78,
-      "points_for": 524.5,
+      "points_against": 775.32,
+      "points_for": 722.24,
       "prior_week_points": {
         "1": 118.8,
         "2": 88.48,
         "3": 90.7,
-        "4": 123.42
+        "4": 123.42,
+        "5": 103.1,
+        "6": 90.06
       },
       "record": {
-        "losses": 6,
+        "losses": 9,
         "ties": 0,
-        "wins": 4
+        "wins": 5
       },
       "roster_id": "12",
       "starters": [
         "6770",
         "7588",
-        "12529",
+        "12489",
         "9493",
-        "9486",
         "8676",
+        "12484",
         "8130",
-        "12509"
+        "12529"
       ],
       "team": "GsUnit",
       "team_id": "12",
       "waiver_budget_used": 0,
-      "week_points": 103.1
+      "week_points": 107.68
     }
   ],
   "matchups": [
@@ -666,69 +690,13 @@
       "data_status": {
         "score": "ACTUAL"
       },
-      "margin": 3.64,
-      "matchup_id": "1",
-      "opponent": "Blackup",
-      "opponent_id": "9",
-      "opponent_score": 111.06,
-      "result": "WIN",
-      "score": 114.7,
-      "team": "jdamiani07",
-      "team_id": "8"
-    },
-    {
-      "data_status": {
-        "score": "ACTUAL"
-      },
-      "margin": -3.64,
+      "margin": -2.82,
       "matchup_id": "1",
       "opponent": "jdamiani07",
       "opponent_id": "8",
-      "opponent_score": 114.7,
+      "opponent_score": 113.5,
       "result": "LOSS",
-      "score": 111.06,
-      "team": "Blackup",
-      "team_id": "9"
-    },
-    {
-      "data_status": {
-        "score": "ACTUAL"
-      },
-      "margin": 19.06,
-      "matchup_id": "2",
-      "opponent": "Bunch-a-Punts",
-      "opponent_id": "5",
-      "opponent_score": 98.02,
-      "result": "WIN",
-      "score": 117.08,
-      "team": "kmillzbos617",
-      "team_id": "3"
-    },
-    {
-      "data_status": {
-        "score": "ACTUAL"
-      },
-      "margin": -19.06,
-      "matchup_id": "2",
-      "opponent": "kmillzbos617",
-      "opponent_id": "3",
-      "opponent_score": 117.08,
-      "result": "LOSS",
-      "score": 98.02,
-      "team": "Bunch-a-Punts",
-      "team_id": "5"
-    },
-    {
-      "data_status": {
-        "score": "ACTUAL"
-      },
-      "margin": 66.14,
-      "matchup_id": "3",
-      "opponent": "paulyo5336",
-      "opponent_id": "7",
-      "opponent_score": 96.4,
-      "result": "WIN",
-      "score": 162.54,
+      "score": 110.68,
       "team": "Killa EV ",
       "team_id": "1"
     },
@@ -736,27 +704,41 @@
       "data_status": {
         "score": "ACTUAL"
       },
-      "margin": -66.14,
-      "matchup_id": "3",
+      "margin": 2.82,
+      "matchup_id": "1",
       "opponent": "Killa EV ",
       "opponent_id": "1",
-      "opponent_score": 162.54,
-      "result": "LOSS",
-      "score": 96.4,
-      "team": "paulyo5336",
-      "team_id": "7"
+      "opponent_score": 110.68,
+      "result": "WIN",
+      "score": 113.5,
+      "team": "jdamiani07",
+      "team_id": "8"
     },
     {
       "data_status": {
         "score": "ACTUAL"
       },
-      "margin": -33.24,
-      "matchup_id": "4",
-      "opponent": "Bolle425",
-      "opponent_id": "11",
-      "opponent_score": 118.78,
+      "margin": -3.1,
+      "matchup_id": "2",
+      "opponent": "D-BLOCK",
+      "opponent_id": "6",
+      "opponent_score": 118.28,
       "result": "LOSS",
-      "score": 85.54,
+      "score": 115.18,
+      "team": "kmillzbos617",
+      "team_id": "3"
+    },
+    {
+      "data_status": {
+        "score": "ACTUAL"
+      },
+      "margin": 3.1,
+      "matchup_id": "2",
+      "opponent": "kmillzbos617",
+      "opponent_id": "3",
+      "opponent_score": 115.18,
+      "result": "WIN",
+      "score": 118.28,
       "team": "D-BLOCK",
       "team_id": "6"
     },
@@ -764,27 +746,13 @@
       "data_status": {
         "score": "ACTUAL"
       },
-      "margin": 33.24,
-      "matchup_id": "4",
-      "opponent": "D-BLOCK",
-      "opponent_id": "6",
-      "opponent_score": 85.54,
-      "result": "WIN",
-      "score": 118.78,
-      "team": "Bolle425",
-      "team_id": "11"
-    },
-    {
-      "data_status": {
-        "score": "ACTUAL"
-      },
-      "margin": -69.52,
-      "matchup_id": "5",
-      "opponent": "BITE",
-      "opponent_id": "10",
-      "opponent_score": 140.78,
+      "margin": -21.12,
+      "matchup_id": "3",
+      "opponent": "Blackup",
+      "opponent_id": "9",
+      "opponent_score": 95.94,
       "result": "LOSS",
-      "score": 71.26,
+      "score": 74.82,
       "team": "tbach24",
       "team_id": "2"
     },
@@ -792,27 +760,55 @@
       "data_status": {
         "score": "ACTUAL"
       },
-      "margin": 69.52,
-      "matchup_id": "5",
+      "margin": 21.12,
+      "matchup_id": "3",
       "opponent": "tbach24",
       "opponent_id": "2",
-      "opponent_score": 71.26,
+      "opponent_score": 74.82,
       "result": "WIN",
-      "score": 140.78,
-      "team": "BITE",
-      "team_id": "10"
+      "score": 95.94,
+      "team": "Blackup",
+      "team_id": "9"
     },
     {
       "data_status": {
         "score": "ACTUAL"
       },
-      "margin": 11.06,
-      "matchup_id": "6",
+      "margin": -1.88,
+      "matchup_id": "4",
       "opponent": "GsUnit",
       "opponent_id": "12",
-      "opponent_score": 103.1,
+      "opponent_score": 107.68,
+      "result": "LOSS",
+      "score": 105.8,
+      "team": "Bunch-a-Punts",
+      "team_id": "5"
+    },
+    {
+      "data_status": {
+        "score": "ACTUAL"
+      },
+      "margin": 1.88,
+      "matchup_id": "4",
+      "opponent": "Bunch-a-Punts",
+      "opponent_id": "5",
+      "opponent_score": 105.8,
       "result": "WIN",
-      "score": 114.16,
+      "score": 107.68,
+      "team": "GsUnit",
+      "team_id": "12"
+    },
+    {
+      "data_status": {
+        "score": "ACTUAL"
+      },
+      "margin": 25.0,
+      "matchup_id": "5",
+      "opponent": "paulyo5336",
+      "opponent_id": "7",
+      "opponent_score": 98.22,
+      "result": "WIN",
+      "score": 123.22,
       "team": "alesclub",
       "team_id": "4"
     },
@@ -820,15 +816,43 @@
       "data_status": {
         "score": "ACTUAL"
       },
-      "margin": -11.06,
-      "matchup_id": "6",
+      "margin": -25.0,
+      "matchup_id": "5",
       "opponent": "alesclub",
       "opponent_id": "4",
-      "opponent_score": 114.16,
+      "opponent_score": 123.22,
       "result": "LOSS",
-      "score": 103.1,
-      "team": "GsUnit",
-      "team_id": "12"
+      "score": 98.22,
+      "team": "paulyo5336",
+      "team_id": "7"
+    },
+    {
+      "data_status": {
+        "score": "ACTUAL"
+      },
+      "margin": 23.86,
+      "matchup_id": "6",
+      "opponent": "Bolle425",
+      "opponent_id": "11",
+      "opponent_score": 101.76,
+      "result": "WIN",
+      "score": 125.62,
+      "team": "BITE",
+      "team_id": "10"
+    },
+    {
+      "data_status": {
+        "score": "ACTUAL"
+      },
+      "margin": -23.86,
+      "matchup_id": "6",
+      "opponent": "BITE",
+      "opponent_id": "10",
+      "opponent_score": 125.62,
+      "result": "LOSS",
+      "score": 101.76,
+      "team": "Bolle425",
+      "team_id": "11"
     }
   ],
   "power_rankings": [],
@@ -837,138 +861,138 @@
     "best_ball_context": [
       {
         "data_status": "ACTUAL",
-        "optimal_score": 162.54,
+        "optimal_score": 110.68,
         "spike_week_players": [
-          "Christian Watson",
-          "Derrick Henry",
-          "George Pickens",
+          "Geno Smith",
           "Jaxon Smith-Njigba",
-          "Trevor Lawrence"
+          "Rhamondre Stevenson"
         ],
         "team": "Killa EV ",
-        "total_roster_production": 249.3,
-        "unused_production": 86.76
+        "total_roster_production": 135.7,
+        "unused_production": 25.02
       },
       {
         "data_status": "ACTUAL",
-        "optimal_score": 71.26,
+        "optimal_score": 74.82,
         "spike_week_players": [
-          "Jayden Daniels"
+          "Omar Cooper Jr."
         ],
         "team": "tbach24",
-        "total_roster_production": 77.26,
-        "unused_production": 6.0
+        "total_roster_production": 88.86,
+        "unused_production": 14.04
       },
       {
         "data_status": "ACTUAL",
-        "optimal_score": 117.08,
+        "optimal_score": 115.18,
         "spike_week_players": [
-          "Jacoby Brissett"
+          "Bo Nix",
+          "Jameson Williams"
         ],
         "team": "kmillzbos617",
-        "total_roster_production": 143.54,
-        "unused_production": 26.46
+        "total_roster_production": 147.96,
+        "unused_production": 32.78
       },
       {
         "data_status": "ACTUAL",
-        "optimal_score": 114.16,
+        "optimal_score": 123.22,
         "spike_week_players": [
           "Bucky Irving",
-          "Jahmyr Gibbs"
+          "Caleb Williams"
         ],
         "team": "alesclub",
-        "total_roster_production": 132.24,
-        "unused_production": 18.08
+        "total_roster_production": 146.82,
+        "unused_production": 23.6
       },
       {
         "data_status": "ACTUAL",
-        "optimal_score": 98.02,
+        "optimal_score": 105.8,
         "spike_week_players": [
-          "Matthew Stafford"
+          "Tony Pollard"
         ],
         "team": "Bunch-a-Punts",
-        "total_roster_production": 136.92,
-        "unused_production": 38.9
+        "total_roster_production": 123.68,
+        "unused_production": 17.88
       },
       {
         "data_status": "ACTUAL",
-        "optimal_score": 85.54,
+        "optimal_score": 118.28,
         "spike_week_players": [
-          "Jared Goff"
+          "CeeDee Lamb",
+          "Dak Prescott",
+          "Quinshon Judkins"
         ],
         "team": "D-BLOCK",
-        "total_roster_production": 111.28,
-        "unused_production": 25.74
+        "total_roster_production": 143.3,
+        "unused_production": 25.02
       },
       {
         "data_status": "ACTUAL",
-        "optimal_score": 96.4,
-        "spike_week_players": [
-          "Aaron Rodgers",
-          "C.J. Stroud"
-        ],
+        "optimal_score": 98.22,
+        "spike_week_players": [],
         "team": "paulyo5336",
-        "total_roster_production": 127.24,
-        "unused_production": 30.84
+        "total_roster_production": 134.06,
+        "unused_production": 35.84
       },
       {
         "data_status": "ACTUAL",
-        "optimal_score": 114.7,
+        "optimal_score": 113.5,
         "spike_week_players": [
-          "Jaylen Warren",
-          "Josh Allen"
+          "Luther Burden III"
         ],
         "team": "jdamiani07",
-        "total_roster_production": 133.42,
-        "unused_production": 18.72
+        "total_roster_production": 137.5,
+        "unused_production": 24.0
       },
       {
         "data_status": "ACTUAL",
-        "optimal_score": 111.06,
+        "optimal_score": 95.94,
         "spike_week_players": [
-          "Drake Maye",
-          "James Cook"
+          "Drake Maye"
         ],
         "team": "Blackup",
-        "total_roster_production": 113.86,
-        "unused_production": 2.8
+        "total_roster_production": 103.64,
+        "unused_production": 7.7
       },
       {
         "data_status": "ACTUAL",
-        "optimal_score": 140.78,
+        "optimal_score": 125.62,
         "spike_week_players": [
-          "Malik Nabers",
+          "Caleb Douglas",
           "Malik Willis",
-          "Mike Evans",
-          "Parker Washington"
+          "Zay Flowers"
         ],
         "team": "BITE",
-        "total_roster_production": 191.2,
-        "unused_production": 50.42
+        "total_roster_production": 156.34,
+        "unused_production": 30.72
       },
       {
         "data_status": "ACTUAL",
-        "optimal_score": 118.78,
+        "optimal_score": 101.76,
         "spike_week_players": [
-          "Isaiah Likely",
-          "Jordan Love"
+          "Tee Higgins"
         ],
         "team": "Bolle425",
-        "total_roster_production": 128.88,
-        "unused_production": 10.1
+        "total_roster_production": 117.16,
+        "unused_production": 15.4
       },
       {
         "data_status": "ACTUAL",
-        "optimal_score": 103.1,
+        "optimal_score": 107.68,
         "spike_week_players": [
+          "Javonte Williams",
           "Joe Burrow",
-          "Puka Nacua"
+          "Trey McBride"
         ],
         "team": "GsUnit",
-        "total_roster_production": 107.14,
-        "unused_production": 4.04
+        "total_roster_production": 125.2,
+        "unused_production": 17.52
       }
     ],
     "note": "No start/sit penalty is applied."
+  },
+  "transaction_refresh": {
+    "as_of": "2026-10-28T01:07:42.136178Z",
+    "through_week": 8,
+    "completed_trades": 0
   }
 }
